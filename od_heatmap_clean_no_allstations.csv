@@ -1,0 +1,101 @@
+origin,destination,ridership
+KG15: Muzium Negara,AG07: Masjid Jamek,1326
+KG15: Muzium Negara,KG15: Muzium Negara,97570
+KG15: Muzium Negara,KG18: Bukit Bintang,107932
+KG15: Muzium Negara,KG20: Tun Razak Exchange,77377
+KG15: Muzium Negara,KG22: Maluri,91974
+KG15: Muzium Negara,KJ09: Ampang Park,663
+KG15: Muzium Negara,KJ10: KLCC,4285
+KG15: Muzium Negara,KJ14: Pasar Seni,21265
+KG15: Muzium Negara,KJ15: KL Sentral,562
+KG15: Muzium Negara,KJ17: Abdullah Hukum,571
+KG18: Bukit Bintang,AG07: Masjid Jamek,21392
+KG18: Bukit Bintang,KG15: Muzium Negara,96600
+KG18: Bukit Bintang,KG18: Bukit Bintang,136331
+KG18: Bukit Bintang,KG20: Tun Razak Exchange,248432
+KG18: Bukit Bintang,KG22: Maluri,261270
+KG18: Bukit Bintang,KJ09: Ampang Park,2633
+KG18: Bukit Bintang,KJ10: KLCC,34373
+KG18: Bukit Bintang,KJ14: Pasar Seni,161505
+KG18: Bukit Bintang,KJ15: KL Sentral,19276
+KG18: Bukit Bintang,KJ17: Abdullah Hukum,31688
+KG20: Tun Razak Exchange,AG07: Masjid Jamek,8562
+KG20: Tun Razak Exchange,KG15: Muzium Negara,63887
+KG20: Tun Razak Exchange,KG18: Bukit Bintang,271401
+KG20: Tun Razak Exchange,KG20: Tun Razak Exchange,38817
+KG20: Tun Razak Exchange,KG22: Maluri,167392
+KG20: Tun Razak Exchange,KJ09: Ampang Park,285
+KG20: Tun Razak Exchange,KJ10: KLCC,8392
+KG20: Tun Razak Exchange,KJ14: Pasar Seni,56844
+KG20: Tun Razak Exchange,KJ15: KL Sentral,10551
+KG20: Tun Razak Exchange,KJ17: Abdullah Hukum,15208
+KG22: Maluri,AG07: Masjid Jamek,14591
+KG22: Maluri,KG15: Muzium Negara,90336
+KG22: Maluri,KG18: Bukit Bintang,259118
+KG22: Maluri,KG20: Tun Razak Exchange,164084
+KG22: Maluri,KG22: Maluri,31004
+KG22: Maluri,KJ09: Ampang Park,489
+KG22: Maluri,KJ10: KLCC,13875
+KG22: Maluri,KJ14: Pasar Seni,28376
+KG22: Maluri,KJ15: KL Sentral,7319
+KG22: Maluri,KJ17: Abdullah Hukum,28371
+KJ09: Ampang Park,AG07: Masjid Jamek,18512
+KJ09: Ampang Park,KG15: Muzium Negara,354
+KJ09: Ampang Park,KG18: Bukit Bintang,3058
+KJ09: Ampang Park,KG20: Tun Razak Exchange,596
+KJ09: Ampang Park,KG22: Maluri,925
+KJ09: Ampang Park,KJ09: Ampang Park,39360
+KJ09: Ampang Park,KJ10: KLCC,264941
+KJ09: Ampang Park,KJ14: Pasar Seni,31713
+KJ09: Ampang Park,KJ15: KL Sentral,75506
+KJ09: Ampang Park,KJ17: Abdullah Hukum,73028
+KJ10: KLCC,AG07: Masjid Jamek,70864
+KJ10: KLCC,KG15: Muzium Negara,1956
+KJ10: KLCC,KG18: Bukit Bintang,36796
+KJ10: KLCC,KG20: Tun Razak Exchange,9853
+KJ10: KLCC,KG22: Maluri,16668
+KJ10: KLCC,KJ09: Ampang Park,308828
+KJ10: KLCC,KJ10: KLCC,31493
+KJ10: KLCC,KJ14: Pasar Seni,123877
+KJ10: KLCC,KJ15: KL Sentral,203314
+KJ10: KLCC,KJ17: Abdullah Hukum,49370
+KJ14: Pasar Seni,AG07: Masjid Jamek,28152
+KJ14: Pasar Seni,KG15: Muzium Negara,13812
+KJ14: Pasar Seni,KG18: Bukit Bintang,156750
+KJ14: Pasar Seni,KG20: Tun Razak Exchange,61837
+KJ14: Pasar Seni,KG22: Maluri,26425
+KJ14: Pasar Seni,KJ09: Ampang Park,27832
+KJ14: Pasar Seni,KJ10: KLCC,118124
+KJ14: Pasar Seni,KJ14: Pasar Seni,57953
+KJ14: Pasar Seni,KJ15: KL Sentral,152065
+KJ14: Pasar Seni,KJ17: Abdullah Hukum,35678
+KJ15: KL Sentral,AG07: Masjid Jamek,82624
+KJ15: KL Sentral,KG15: Muzium Negara,641
+KJ15: KL Sentral,KG18: Bukit Bintang,15588
+KJ15: KL Sentral,KG20: Tun Razak Exchange,8856
+KJ15: KL Sentral,KG22: Maluri,8220
+KJ15: KL Sentral,KJ09: Ampang Park,74803
+KJ15: KL Sentral,KJ10: KLCC,219124
+KJ15: KL Sentral,KJ14: Pasar Seni,151814
+KJ15: KL Sentral,KJ15: KL Sentral,45065
+KJ15: KL Sentral,KJ17: Abdullah Hukum,182102
+KJ17: Abdullah Hukum,AG07: Masjid Jamek,18114
+KJ17: Abdullah Hukum,KG15: Muzium Negara,301
+KJ17: Abdullah Hukum,KG18: Bukit Bintang,36271
+KJ17: Abdullah Hukum,KG20: Tun Razak Exchange,17629
+KJ17: Abdullah Hukum,KG22: Maluri,31385
+KJ17: Abdullah Hukum,KJ09: Ampang Park,73269
+KJ17: Abdullah Hukum,KJ10: KLCC,48799
+KJ17: Abdullah Hukum,KJ14: Pasar Seni,40802
+KJ17: Abdullah Hukum,KJ15: KL Sentral,188332
+KJ17: Abdullah Hukum,KJ17: Abdullah Hukum,26023
+MR06: Bukit Bintang,AG07: Masjid Jamek,8651
+MR06: Bukit Bintang,KG15: Muzium Negara,123
+MR06: Bukit Bintang,KG18: Bukit Bintang,142
+MR06: Bukit Bintang,KG20: Tun Razak Exchange,308
+MR06: Bukit Bintang,KG22: Maluri,773
+MR06: Bukit Bintang,KJ09: Ampang Park,72
+MR06: Bukit Bintang,KJ10: KLCC,918
+MR06: Bukit Bintang,KJ14: Pasar Seni,663
+MR06: Bukit Bintang,KJ15: KL Sentral,76
+MR06: Bukit Bintang,KJ17: Abdullah Hukum,128
